@@ -12,7 +12,7 @@ Then you can do remote development with docker in a cloud9 ide for free with doc
 
 It's a thing.
 
-[Here's a blog post about it.](http://google.com)
+[Here's a blog post about it.](http://continuousfailure.com/post/carina_cloud9/)
 
 # Usage
 
